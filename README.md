@@ -1,16 +1,116 @@
-# React + Vite
+# 🍔 FoodieHub - Food Delivery Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Food Delivery Website built using React.js. Users can browse delicious food items, search dishes, add items to cart, manage wishlist, place orders, and authenticate using Login & Signup pages.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://food-delivery-website-five-ashy.vercel.app/
 
-## React Compiler
+## 📂 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://github.com/Jayshrifulzele/Food-Delivery-Website
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Responsive UI
+- Home Page with Hero Section
+- Food Categories
+- Search Food
+- Food Details Page
+- Add to Cart
+- Shopping Cart
+- Wishlist
+- Checkout Page
+- Order Success Page
+- Login & Signup
+- User Profile
+- Orders Page
+- About Page
+- Contact Page
+- Toast Notifications
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Redux Toolkit
+- React Router DOM
+- Tailwind CSS
+- React Icons
+- React Toastify
+- Vite
+
+---
+
+# 📸 Screenshots
+
+## Home
+
+![Home](screenshots/home.png)
+
+---
+
+## Food List
+
+![Food List](screenshots/food-list.png)
+
+---
+
+## Food Details
+
+![Food Details](screenshots/food-details.png)
+
+---
+
+## Shopping Cart
+
+![Cart](screenshots/cart.png)
+
+---
+
+## Checkout
+
+![Checkout](screenshots/checkout.png)
+
+---
+
+## Login
+
+![Login](screenshots/login.png)
+
+---
+
+## Signup
+
+![Signup](screenshots/signup.png)
+
+---
+
+## Profile
+
+![Profile](screenshots/profile.png)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Jayshrifulzele/Food-Delivery-Website.git
+
+cd Food-Delivery-Website
+
+npm install
+
+npm run dev
+```
+
+---
+
+## 👩‍💻 Developer
+
+**Jayshri Fulzele**
+
+Frontend Developer | React.js Developer
