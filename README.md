@@ -78,25 +78,21 @@ A modern and responsive Food Delivery Web Application built using **React.js**, 
 
 ---
 
-### 🔐 Login / Logout
+### 🔐 Login
 
-#### Login
-
-![Login](screenshort/logout.png)
+![Login](screenshort/login.png)
 
 ---
 
 ### 📝 Signup
 
-![Signup](screenshort/singn.png)
+![Signup](screenshort/signup.png)
 
 ---
 
 ### ℹ️ About Page
 
 ![About](screenshort/about.png)
-
----
 
 ## 📂 Project Structure
 
