@@ -1,39 +1,34 @@
 # 🍔 FoodieHub - Food Delivery Website
 
-A modern and responsive Food Delivery Website built using React.js. Users can browse delicious food items, search dishes, add items to cart, manage wishlist, place orders, and authenticate using Login & Signup pages.
+A modern and responsive Food Delivery Web Application built using **React.js**, **Redux Toolkit**, and **Tailwind CSS**. Users can browse food items, search dishes, manage cart and wishlist, place orders, and authenticate using Login/Signup.
 
 ## 🚀 Live Demo
 
-https://food-delivery-website-five-ashy.vercel.app/
+🔗 https://food-delivery-website-five-ashy.vercel.app/
 
-## 📂 GitHub Repository
+## 💻 GitHub Repository
 
-https://github.com/Jayshrifulzele/Food-Delivery-Website
+🔗 https://github.com/Jayshrifulzele/Food-Delivery-Website
 
 ---
 
 ## ✨ Features
 
-- Responsive UI
-- Home Page with Hero Section
-- Food Categories
-- Search Food
-- Food Details Page
-- Add to Cart
-- Shopping Cart
-- Wishlist
-- Checkout Page
-- Order Success Page
-- Login & Signup
-- User Profile
-- Orders Page
-- About Page
-- Contact Page
-- Toast Notifications
+- 🏠 Modern Home Page
+- 🔍 Search Food Items
+- 🍕 Category Filter
+- ❤️ Wishlist
+- 🛒 Shopping Cart
+- 💳 Checkout Page
+- 📦 Orders Page
+- 👤 User Profile
+- 🔐 Login & Signup Authentication
+- 📱 Responsive Design
+- ⚡ Fast Performance
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - React.js
 - Redux Toolkit
@@ -45,57 +40,81 @@ https://github.com/Jayshrifulzele/Food-Delivery-Website
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-## Home
+### 🏠 Home Page
 
-![Home](screenshots/home.png)
-
----
-
-## Food List
-
-![Food List](screenshots/food-list.png)
+![Home](screenshort/home.png)
 
 ---
 
-## Food Details
+### ❤️ Wishlist
 
-![Food Details](screenshots/food-details.png)
-
----
-
-## Shopping Cart
-
-![Cart](screenshots/cart.png)
+![Wishlist](screenshort/wishlist.png)
 
 ---
 
-## Checkout
+### 🛒 Shopping Cart
 
-![Checkout](screenshots/checkout.png)
-
----
-
-## Login
-
-![Login](screenshots/login.png)
+![Cart](screenshort/cart.png)
 
 ---
 
-## Signup
+### 💳 Checkout
 
-![Signup](screenshots/signup.png)
-
----
-
-## Profile
-
-![Profile](screenshots/profile.png)
+![Checkout](screenshort/check-out.png)
 
 ---
 
-## 📦 Installation
+### 🍔 Food Details
+
+![Food Details](screenshort/food-details.png)
+
+---
+
+### 👤 Profile
+
+![Profile](screenshort/profile.png)
+
+---
+
+### 🔐 Login / Logout
+
+#### Login
+
+![Login](screenshort/logout.png)
+
+---
+
+### 📝 Signup
+
+![Signup](screenshort/singn.png)
+
+---
+
+### ℹ️ About Page
+
+![About](screenshort/about.png)
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+├── components/
+├── pages/
+├── redux/
+├── context/
+├── assets/
+├── food.js
+├── Category.jsx
+└── App.jsx
+```
+
+---
+
+## ⚙️ Installation
 
 ```bash
 git clone https://github.com/Jayshrifulzele/Food-Delivery-Website.git
@@ -109,8 +128,6 @@ npm run dev
 
 ---
 
-## 👩‍💻 Developer
+## 👩‍💻 Developed By
 
 **Jayshri Fulzele**
-
-Frontend Developer | React.js Developer
